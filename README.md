@@ -1,3 +1,4 @@
-# les_prototype
-mvc patten 
-spec : 
+# airbnb_prototype
+#fork 160817
+air bnb project prototype
+spec : MVC, JEE, ORACLE, None MJS
